@@ -385,41 +385,23 @@ This limitation was considered when interpreting provider-level results and is a
 \* \*\*Statistical Analysis\*\*
 
 
+## Dashboard Preview
 
-\## Dashboard Preview
+### Executive Overview
 
+![Executive Overview](images/executive-overview.png)
 
+### Cost Analysis
 
-\### Executive Overview
+![Cost Analysis](images/cost-analysis.png)
 
+### Provider Performance
 
+![Provider Performance](images/provider-performance.png)
 
-!\[Executive Overview](images/executive-overview.png)
+### Fraud & Risk Insights
 
-
-
-\### Cost Analysis
-
-
-
-!\[Cost Analysis](images/cost-analysis.png)
-
-
-
-\### Provider Performance
-
-
-
-!\[Provider Performance](images/provider-performance.png)
-
-
-
-\### Fraud \& Risk Insights
-
-
-
-!\[Fraud \& Risk Insights](images/fraud-risk-insights.png)
-
+![Fraud & Risk Insights](images/fraud-risk-insights.png)
 
 
 \## Project Objective
